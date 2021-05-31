@@ -1,0 +1,12 @@
+.form-control{
+    background-color:#e66465;
+    border: 0;
+    color:black;
+}
+input::placeholder{
+    color:black;
+}
+th,td{
+    border:0;
+    color:black;
+}
